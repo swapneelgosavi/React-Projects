@@ -1,5 +1,4 @@
-# ReactProjects
-## React Projects
+# React Projects
 
 Video Search Application:
 
